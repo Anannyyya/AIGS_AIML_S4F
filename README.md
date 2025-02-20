@@ -1,4 +1,4 @@
-# AIGS_AIML_S4F
+# BCA INTERNSHIP - 6TH SEMEMSTER
 Skills4future Internship on Greenskills &amp; AI
 
 # AI & ML Learning Journey  
