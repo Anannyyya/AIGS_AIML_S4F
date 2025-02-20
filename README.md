@@ -17,7 +17,11 @@ This repository documents my learning experience in AI & ML as part of the Green
 - Clustering techniques  
 - Dimensionality reduction using:  
   - Principal Component Analysis (PCA)  
-  - t-Distributed Stochastic Neighbor Embedding (t-SNE)  
+  - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+
+### Green Skills
+ - Understanding sustainable technology practices
+ - Exploring AI's role in environmental sustainability
 
 ## Practical Applications  
 - Applied knowledge through quizzes conducted during the course.  
